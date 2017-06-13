@@ -9,3 +9,5 @@
 ![Equipment.md[equipment.md]]
 
 [[Equipment.md|./Equipment.md]]
+
+[GitHub](./Equipment.md))
